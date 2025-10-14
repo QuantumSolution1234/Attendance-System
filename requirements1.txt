@@ -1,6 +1,6 @@
 # Attendance-System
 
-//This is for the headcount setup 
+##This is for the headcount setup follow the instructions
 
 
 This project detects faces using a camera and counts the number of people present. It records the maximum count in a CSV file as attendance.
