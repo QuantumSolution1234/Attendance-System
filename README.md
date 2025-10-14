@@ -1,6 +1,6 @@
 # Attendance-System
 
-//This is For the head count based setup 
+//This is for the headcount setup 
 
 # Face Recognition Attendance System
 
@@ -32,15 +32,12 @@ Open a terminal in the project folder and run:
 
 python -m venv venv
 
-yaml
 
 
 Activate it:
 
 - For Windows:
 venv\Scripts\activate
-
-diff
 
 
 ---
@@ -50,14 +47,12 @@ Run this command in the terminal:
 
 pip install -r requirements.txt
 
-go
-
 
 If you don’t have `requirements.txt`, you can install manually:
 
 pip install opencv-python mediapipe pyttsx3
 
-yaml
+
 
 
 ---
@@ -67,7 +62,7 @@ Run this command:
 
 python camera_recognition.py
 
-yaml
+
 
 
 ---
